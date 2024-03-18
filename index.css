@@ -1,0 +1,15 @@
+body{
+    background-color: whitesmoke;
+}
+img{
+    border: 2px solid black;
+}
+h1,h2,h3{
+    font-family: "Viaoda Libre", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.details{
+    font-family:  "Special Elite", system-ui;
+    font-size: small;
+}
