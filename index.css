@@ -1,7 +1,6 @@
 body{
     color: white;
-    background-color: #004D40;
-    
+    background-color: #263238;
 }
 img{
     border: 2px solid black;
@@ -21,4 +20,8 @@ h1,h2,h3{
 .details{
     font-family:  "Special Elite", system-ui;
     font-size: small;
+}
+a{
+    text-decoration: none;
+    color: white;
 }
